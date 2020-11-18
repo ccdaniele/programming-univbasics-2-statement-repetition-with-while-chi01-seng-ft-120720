@@ -1,1 +1,9 @@
-# Write your code here
+nyn = 0 
+count = 10 
+
+while nyn < count do
+  break if nyn == count 
+  puts count
+  count -= 1 
+end
+puts "Happy New Year!"
