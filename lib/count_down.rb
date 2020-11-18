@@ -6,4 +6,4 @@ while nyn < count do
   puts count
   count -= 1 
 end
-puts "happy New Year!"
+puts "Happy New Year!"
